@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/ycheuk/ycheuk/master/header.png "Header")](https://ycheuk.github.io/portfolio/)
+
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />  
 My name is Yik Yin Cheuk and I'm a website developer and designer. I'm currently a junior studying computer science and art @ Reed College.
 
