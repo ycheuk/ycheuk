@@ -12,6 +12,10 @@ My name is Yik Yin Cheuk and I'm a website developer and designer. I'm currently
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ycheuk&repo=study-time&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/ycheuk/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ycheuk&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ## 🔗 Social Media
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ycheuk/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:ycheuk03@gmail.com)
