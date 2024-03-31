@@ -5,7 +5,7 @@ My name is Yik Yin Cheuk and I'm a website developer and designer. I'm currently
 
 ## 🛠️ Currently Working On
 <a href="https://github.com/ycheuk/genshin-guide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ycheuk&repo=genshin-guide&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ycheuk&repo=genshin-guide&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/ycheuk/study-time">
