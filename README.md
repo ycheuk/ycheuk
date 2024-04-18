@@ -8,6 +8,10 @@ My name is Yik Yin and I'm a website developer and designer! I'm currently a jun
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ycheuk&repo=genshin-guide&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
+<a href="https://github.com/ycheuk/genshindle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ycheuk&repo=genshindle&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
+
 <a href="https://github.com/ycheuk/study-time">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ycheuk&repo=study-time&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
